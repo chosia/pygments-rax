@@ -1,0 +1,8 @@
+#emacs backup files
+*~
+
+#pycache
+__pycache__
+
+#python compiled files
+*.pyc
